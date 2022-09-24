@@ -1,0 +1,193 @@
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.exe
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\Inicio.jpg
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.deps.json
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.runtimeconfig.json
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.pdb
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.AssemblyReference.cache
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.g.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.g.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_Content.g.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.cache
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.lref
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.baml
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.baml
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.g.resources
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfoInputs.cache
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfo.cs
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CoreCompileInputs.cache
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\refint\JumpVerse.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.pdb
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.genruntimeconfig.cache
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\ref\JumpVerse.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Mutzl.MvvmLight.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.Net45.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CopyComplete
+C:\Users\Usuar\Desktop\Memo\1.1.1 7mo Semestre\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.exe
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\Inicio.jpg
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.deps.json
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.runtimeconfig.json
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.pdb
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Mutzl.MvvmLight.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Practices.ServiceLocation.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.Net45.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.AssemblyReference.cache
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\App.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_Content.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.cache
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.lref
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.baml
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.baml
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.baml
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.g.resources
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.GeneratedMSBuildEditorConfig.editorconfig
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfoInputs.cache
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfo.cs
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CoreCompileInputs.cache
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CopyComplete
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\refint\JumpVerse.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.pdb
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.genruntimeconfig.cache
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\ref\JumpVerse.dll
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\izquierda.png
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\nivel1finalpixel.jpg
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\plataforma.png
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\abajo.png
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\arriba.png
+E:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\derecha.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.exe
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\Inicio.jpg
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\izquierda.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\nivel1finalpixel.jpg
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\plataforma.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\abajo.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\arriba.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Source\derecha.png
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.deps.json
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.runtimeconfig.json
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\JumpVerse.pdb
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Mutzl.MvvmLight.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Practices.ServiceLocation.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.Net45.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\de\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\en\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\es\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\fr\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\it\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ja\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ko\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\ru\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.AssemblyReference.cache
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\App.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_Content.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.cache
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse_MarkupCompile.lref
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\MainWindow.baml
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\JumpVerseInicio.baml
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\Views\NivelUNO.baml
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.g.resources
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfoInputs.cache
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.AssemblyInfo.cs
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CoreCompileInputs.cache
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.csproj.CopyComplete
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\refint\JumpVerse.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.pdb
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\JumpVerse.genruntimeconfig.cache
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\obj\Debug\net6.0-windows\ref\JumpVerse.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\TEC\7moSemestre\Automatas\Automatas\JumpVerse\JumpVerse\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
