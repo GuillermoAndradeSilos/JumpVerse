@@ -1,20 +1,46 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
-
   <ItemGroup>
+    <None Remove="Source\abajo.png" />
+    <None Remove="Source\arriba.png" />
+    <None Remove="Source\derecha.png" />
     <None Remove="Source\Inicio.jpg" />
+    <None Remove="Source\izquierda.png" />
+    <None Remove="Source\nivel1finalpixel.jpg" />
+    <None Remove="Source\plataforma.png" />
   </ItemGroup>
-
   <ItemGroup>
     <Content Include="Source\Inicio.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Source\izquierda.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Source\nivel1finalpixel.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Source\plataforma.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
-
+  <ItemGroup>
+    <PackageReference Include="Mutzl.Mvvm.DependentRelayCommand" Version="0.9.5" />
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Source\abajo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Source\arriba.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Source\derecha.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>
