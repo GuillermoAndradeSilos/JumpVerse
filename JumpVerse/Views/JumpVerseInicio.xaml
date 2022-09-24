@@ -3,16 +3,18 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        
+        xmlns:mvvm="clr-namespace:JumpVerse.ViewModels"
         xmlns:local="clr-namespace:JumpVerse.Views"
-       
         mc:Ignorable="d"
         Title="JumpVerseInicio" Height="450" Width="800" MaxHeight="450" MaxWidth="800">
+    <Window.DataContext>
+        <mvvm:MenuViewModels></mvvm:MenuViewModels>
+    </Window.DataContext>
     <Window.Background>
         <ImageBrush ImageSource="/Source/Inicio.jpg"></ImageBrush>
     </Window.Background>
     <Grid>
-        <Button RenderTransformOrigin="0.487,3.752"  FontFamily="Verdana" Foreground="Black" BorderThickness="3" BorderBrush="Gray" FontSize="19" Width="200" Height="30" Margin="250,279,250,55">
+        <Button Command="{Binding IniciarCommand }" RenderTransformOrigin="0.487,3.752"  FontFamily="Verdana" Foreground="Black" BorderThickness="3" BorderBrush="Gray" FontSize="19" Width="200" Height="30" Margin="250,279,250,55">
             INICIAR
             <Button.Effect>
                 <DropShadowEffect BlurRadius="20" ShadowDepth="1"></DropShadowEffect>
